@@ -1,4 +1,4 @@
-# S3 CLI written in pure Go [![Build Status](https://travis-ci.org/pivotal-golang/s3cli.png?branch=master)](https://travis-ci.org/pivotal-golang/s3cli)
+[![Build Status](https://apibeta.shippable.com/projects/540b0e33777fb61500da1174/badge?branchName=master)](https://beta.shippable.com/projects/540b0e33777fb61500da1174/builds/latest)# S3 CLI written in pure Go [![Build Status](https://travis-ci.org/pivotal-golang/s3cli.png?branch=master)](https://travis-ci.org/pivotal-golang/s3cli)
 
 ## Using Go AMZ
 
@@ -11,3 +11,4 @@ To change the version being used by the CLI follow these steps:
  * Get the updated binary from out/s3
 
 See GoAMZ home page for more details on the library: https://wiki.ubuntu.com/goamz
+[![Build Status](https://apibeta.shippable.com/projects/540b0e33777fb61500da1174/badge?branchName=master)](https://beta.shippable.com/projects/540b0e33777fb61500da1174/builds/latest)
