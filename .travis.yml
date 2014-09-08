@@ -10,3 +10,10 @@ install:
 
 script:
 - GOPATH=$PWD bin/test
+- echo $Foo
+
+env: 
+ global:
+  - secure: usmDbz074nUChhA426tR6Jbj7hSFCE2S3CGEuiOpHd8fukA6EotJAvx+NBzQ+TBe5sZU1SEX57xTthWaSEBeqmxRuF40SEjh6iAvbxkWbXGD1XAP6oOixT0wWJh3qkZHr+8MzOMzzira9YWFnv71uxX1tgH2SU/4UvHL6D1aH3J7ZfucIjL+5xmEyynUdypsE60KG9xbUbFaUYpYws2Rypn6yG/G0/ZzHN2OBP1wMTa1lFyYa7B7cIH9TShzTQUa+AvA2TzbSt1142J6/FcfeJFoL+fF8EDN+iCB9eByysHUbsEqAQQj2pKtEs0GWfb7dQsNjuUCecQSptUzOdYRNQ==
+  
+  
